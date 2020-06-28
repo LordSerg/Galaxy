@@ -1,0 +1,97 @@
+C:\Users\moskalenko_s\Desktop\Мои изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.exe.config
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.exe.config
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.exe
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.pdb
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.GLControl.dll
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.dll
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.GLControl.xml
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.pdb
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.xml
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csprojResolveAssemblyReference.cache
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Form1.resources
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Properties.Resources.resources
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csproj.GenerateResource.Cache
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.exe
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.pdb
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.FreeGlut.dll
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.OpenGl.dll
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.Platform.Windows.dll
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.FreeGlut.xml
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.OpenGl.xml
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.Platform.Windows.xml
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.Compatibility.dll
+D:\Мои_изобретения\11. Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Form2.resources
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.exe.config
+D:\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.exe
+D:\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.pdb
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.exe
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.pdb
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.Compatibility.dll
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.dll
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.GLControl.dll
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.FreeGlut.dll
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.OpenGl.dll
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.Platform.Windows.dll
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.pdb
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.xml
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.GLControl.xml
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.FreeGlut.xml
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.OpenGl.xml
+D:\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.Platform.Windows.xml
+D:\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csprojResolveAssemblyReference.cache
+D:\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Form1.resources
+D:\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Form2.resources
+D:\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Properties.Resources.resources
+D:\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csproj.GenerateResource.Cache
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.exe.config
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.exe
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.pdb
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Form1.resources
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Form2.resources
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Properties.Resources.resources
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csproj.GenerateResource.Cache
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.exe
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.pdb
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.Compatibility.dll
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.dll
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.GLControl.dll
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.FreeGlut.dll
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.OpenGl.dll
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.Platform.Windows.dll
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.pdb
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.xml
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.GLControl.xml
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.FreeGlut.xml
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.OpenGl.xml
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.Platform.Windows.xml
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.dll.config
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.Compatibility.dll.config
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csprojAssemblyReference.cache
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csproj.CoreCompileInputs.cache
+D:\My_projects\Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csproj.CopyComplete
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.exe.config
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.exe
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\Galactic1.pdb
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.Compatibility.dll
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.dll
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.GLControl.dll
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.FreeGlut.dll
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.OpenGl.dll
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.Platform.Windows.dll
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.pdb
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.xml
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.dll.config
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.Compatibility.dll.config
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\OpenTK.GLControl.xml
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.FreeGlut.xml
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.OpenGl.xml
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\bin\Debug\Tao.Platform.Windows.xml
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csprojAssemblyReference.cache
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Form1.resources
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Form2.resources
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.Properties.Resources.resources
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csproj.GenerateResource.cache
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csproj.CoreCompileInputs.cache
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.csproj.CopyComplete
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.exe
+D:\_My_Projects\_Моделирование галактики\Galactic1\Galactic1\obj\Debug\Galactic1.pdb
